@@ -1,0 +1,1 @@
+# Hindi-English-Parallel-Corpus-in-Judicial-Domain-Data
